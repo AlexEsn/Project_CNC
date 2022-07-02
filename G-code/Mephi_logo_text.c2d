@@ -4487,7 +4487,7 @@
         "MACHINE_TYPE": "Shapeoko",
         "MATERIAL": "Any",
         "RETRACT": 12.7,
-        "THICKNESS": 1.4,
+        "THICKNESS": 1,
         "WIDTH": 200.2,
         "ZERO_X": 0,
         "ZERO_Y": 0,
